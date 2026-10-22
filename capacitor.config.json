@@ -1,0 +1,12 @@
+{
+  "appId": "cd.unamdd.carte",
+  "appName": "UNAMDD Carte CAMI",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
